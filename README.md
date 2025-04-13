@@ -26,7 +26,7 @@ This project combines object detection using YOLO with smart route planning to i
 ## 🧠 Tech Stack
 
 - *Python*
-- *YOLOv5* via ultralytics for object detection
+- *YOLOv8* via ultralytics for object detection
 - *Streamlit* for interactive UI
 - *Folium* for map-based route visualization
 - *OpenCV* and *PIL* for image processing
